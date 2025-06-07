@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-life-clock",
+	"name": "芳华流逝",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"minAppVersion": "0.1.0",
+	"description": "芳华流逝，帮助您更好地感知时间的流逝，可以显示已活时间和剩余时间，并计算还能做的事情次数。",
+	"author": "helltractor",
+	"authorUrl": "https://github.com/helltractor",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
